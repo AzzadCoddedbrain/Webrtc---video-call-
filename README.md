@@ -13,8 +13,7 @@ npm install
 <br>
 npm start
 
+![image](https://user-images.githubusercontent.com/124251218/233001217-2e62f91b-1869-4be2-8e6d-8b31dd0b09e7.png)
 
-
-![image](https://user-images.githubusercontent.com/124251218/233000961-400e1f5c-2f12-486a-8304-2f1e601e8bd1.png)
 
 node js is runnuing 
